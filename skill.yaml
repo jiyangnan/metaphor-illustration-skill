@@ -1,0 +1,5 @@
+name: "metaphor_illustration"
+title: "隐喻配图创作"
+description: "为文章、教程和社交帖创作静态配图：先定论点，再找因果同构的生活隐喻演成一场事件，风格从风格库选并逐张复用风格锁。首个风格为 Style 01 霓虹蓝图（深蓝霓虹科技风）。Triggers: 做配图, 给文章配图, 生成插图, 配图, illustration."
+category: "Image creation"
+include_in_prompt: true
